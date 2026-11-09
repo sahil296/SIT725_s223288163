@@ -1,0 +1,12 @@
+{
+  "name": "sit725-1-1p",
+  "version": "1.0.0",
+  "description": "SIT725 1.1P - Introduction to Programming with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "node server.js"
+  },
+  "author": "Sahil Navin",
+  "license": "MIT"
+}
